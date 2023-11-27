@@ -11,6 +11,10 @@ includes Impulse Response (IR) from Aachen Impulse Response (AIR) Database
 
 https://www.iks.rwth-aachen.de/en/research/tools-downloads/databases/aachen-impulse-response-database/
 
+includes an edited version of RTConvolve by Graham Barab
+
+https://github.com/grahman/RTConvolve
+
 
 **DEPENDENCIES**
 
