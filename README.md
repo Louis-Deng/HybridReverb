@@ -7,14 +7,14 @@ includes Impulse Response (IR) from Aachen Impulse Response (AIR) Database
 https://www.iks.rwth-aachen.de/en/research/tools-downloads/databases/aachen-impulse-response-database/
 
 
-**Dependencies: **
+**DEPENDENCIES**
 
 JUCE   https://juce.com
 
 STK    https://ccrma.stanford.edu/software/stk/
 
 
-**Install: **
+**INSTALL**
 
 open .jucer project file in Projucer (https://juce.com)
 
