@@ -126,7 +126,7 @@ void LouisVerbAudioProcessorEditor::paint (juce::Graphics& g)
 
     g.setColour (juce::Colours::grey);
     g.setFont (15.0f);
-    g.drawFittedText ("ReBirbVerb v1.3", getLocalBounds(), juce::Justification::topLeft, 1);
+    g.drawFittedText ("LouisHybridReverb v1.3", getLocalBounds(), juce::Justification::topLeft, 1);
     
     
 }
