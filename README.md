@@ -1,6 +1,11 @@
 # HybridReverb
 A Hybrid Reverberator in C++ combining convolution and FDN-based algorithmic reverb. Part of the M.A. Music Technology Thesis - Louis Boyu Deng (2023)
 
+**download the ready-to-use Audio Unit .component in release!**
+
+
+
+
 
 includes Impulse Response (IR) from Aachen Impulse Response (AIR) Database
 
